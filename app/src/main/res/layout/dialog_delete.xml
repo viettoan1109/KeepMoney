@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="@dimen/margin_16"
+    android:layout_marginEnd="@dimen/margin_16"
+    android:background="@drawable/custom_bg_dialog">
+
+    <TextView
+        android:id="@+id/tv_delete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_16"
+        android:fontFamily="@font/sf_pro_display_regular"
+        android:text="@string/delete"
+        android:textColor="@color/text_black"
+        android:textSize="@dimen/text24sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:gravity="center"
+        android:id="@+id/tv_delete_request"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_8"
+        android:fontFamily="@font/sf_pro_display_regular"
+        android:text="@string/delete_request"
+        android:textColor="@color/text_black"
+        android:textSize="@dimen/text15sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_delete" />
+
+    <TextView
+        android:gravity="center"
+        android:id="@+id/tv_delete_fileName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_4"
+        android:fontFamily="@font/sf_pro_display_regular"
+        android:textColor="@color/text_black"
+        android:textSize="@dimen/text15sp"
+        android:layout_marginStart="@dimen/margin_23"
+        android:layout_marginEnd="@dimen/margin_23"
+        android:layout_marginBottom="@dimen/margin_20"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_delete_request" />
+
+    <android.widget.Button
+        android:id="@+id/btn_delete_yes"
+        android:layout_width="136dp"
+        android:layout_height="36dp"
+        android:layout_marginStart="@dimen/margin_23"
+        android:layout_marginTop="@dimen/margin_20"
+        android:layout_marginBottom="@dimen/margin_28"
+        android:background="@drawable/custom_bg_button_gray"
+        android:fontFamily="@font/sf_pro_display_regular"
+        android:text="@string/yes"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text17sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_delete_fileName" />
+
+    <android.widget.Button
+        android:id="@+id/btn_delete_no"
+        android:layout_width="136dp"
+        android:layout_height="36dp"
+        android:layout_marginTop="@dimen/margin_20"
+        android:layout_marginEnd="@dimen/margin_23"
+        android:layout_marginBottom="@dimen/margin_28"
+        android:background="@drawable/custom_bg_button_blue"
+        android:fontFamily="@font/sf_pro_display_regular"
+        android:text="@string/no"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text17sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_delete_fileName" />
+
+    <ProgressBar
+        android:id="@+id/progress_delete"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_delete" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

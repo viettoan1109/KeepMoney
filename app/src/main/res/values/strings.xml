@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Keep Money</string>
+
+    <string name="file_explorer">File Explorer</string>
+    <string name="archive_files">Archive Files</string>
+    <string name="recent_files">Recent Files</string>
+    <string name="show_all">Show All</string>
+    <string name="search">Search</string>
+    <string name="rename">Rename</string>
+    <string name="new_folder">New Folder</string>
+    <string name="copy">Copy</string>
+    <string name="paste">Paste</string>
+    <string name="extract">Extract</string>
+    <string name="compress">Compress</string>
+    <string name="delete">Delete</string>
+    <string name="share">Share</string>
+    <string name="select">Select</string>
+    <string name="deselect">Deselect all</string>
+    <string name="browser">Browser</string>
+    <string name="azip">Azip</string>
+    <string name="go_to_setting">Go to Setting</string>
+    <string name="go_back">Go Back</string>
+    <string name="permission_manage_external_storage">Please allow permission manage storage access to edit file on your phone.</string>
+    <string name="please_grants_permission">Please allow external storage access to save file on your phone.</string>
+    <string name="please_grant_permission">Please allow external storage access to edit document file.</string>
+    <string name="no_data">No Data</string>
+
+
+    //menu
+    <string name="upgrade_pro_version">Upgrade Pro Version</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="rate">Rare Us</string>
+    //processing
+    <string name="processing">Processing</string>
+    <string name="adding">Adding</string>
+    <string name="extracting">Extracting</string>
+    <string name="run_background">Run in Background</string>
+    //file explore
+    <string name="doc">Doc</string>
+    <string name="photo">Photo</string>
+    <string name="music">Music</string>
+    <string name="download">Download</string>
+    <string name="video">Video</string>
+    <string name="apk">Apk</string>
+    <string name="browse">Browse</string>
+
+    <string name="cancel">Cancel</string>
+    //dialog
+    <string name="file_name">File name</string>
+    <string name="delete_request">Are you sure you want to delete</string>
+    <string name="folder">Folder</string>
+    <string name="folder_name">Folder Name</string>
+    <string name="password">Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="rar">RAR</string>
+    <string name="zip">ZIP</string>
+    <string name="rar_4.x">RAR 4.x</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">OK</string>
+
+    <string name="from_file">From file</string>
+    <string name="to_file">To file</string>
+    <string name="ask_before_overwrite">Ask before overwrite</string>
+    <string name="overwrite_without_prompt">Overwrite without prompt</string>
+    <string name="skip_existing_files">Skip existing files</string>
+    <string name="wrong_password">Wrong password. Please try again.</string>
+
+    //splash
+    <string name="content_1">Compress, Extract Zip Files,</string>
+    <string name="content_2">Rar 4.x High Quality</string>
+
+    //pro version
+    <string name="compress_multiple_files_at_once">Compress multiple files at once</string>
+    <string name="support_extracting_30_file_formats">Support extracting 30+ file formats</string>
+    <string name="extract_and_compress_file_with_original_quality">Extract and compress file with original quality</string>
+    <string name="compress_file_with_size_reduceup_to_40">Compress file with size reduce up to 40%</string>
+    <string name="set_strong_passwords_to_protect_files">Set strong passwords to protect files</string>
+    <string name="monthly">Monthly</string>
+    <string name="three_days_using_for_free">3 days using for free then 29$/ month</string>
+    <string name="three_day_free_trial">3- Days free trial</string>
+    <string name="cost_three_day">Then 19$/ week</string>
+    <string name="life_time">Lifetime</string>
+    <string name="cost_life_time">199$</string>
+    <string name="subcribe">SUBSCRIBE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

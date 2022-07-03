@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/demo_nav"
+    app:startDestination="@id/splashFragment">
+
+    <fragment
+        android:id="@+id/splashFragment"
+        android:name="vn.trungkma.money.ui.splash.SplashFragment"
+        android:label="splash"
+        >
+        <action
+            android:id="@+id/action_splashFragment_to_homeFragment"
+            app:destination="@id/homeFragment" />
+
+    </fragment>
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="vn.trungkma.money.ui.main.home.HomeFragment"
+        android:label="home"
+        tools:layout="@layout/fragment_home">
+        <action
+            android:id="@+id/action_homeFragment_to_explorerFragment"
+            app:destination="@id/explorerFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_archiveFragment"
+            app:destination="@id/archiveFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_browsrFragment"
+            app:destination="@id/browseFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_playPhotoFragment"
+            app:destination="@id/playPhotoFragment" />
+
+        <argument
+            android:name="myArg"
+            app:argType="string"
+            android:defaultValue="0"/>
+    </fragment>
+
+    <fragment
+        android:id="@+id/explorerFragment"
+        android:name="vn.trungkma.money.ui.explorer.ExplorerFragment"
+        android:label="explorer"
+        tools:layout="@layout/fragment_explorer">
+        <action
+            android:id="@+id/action_explorerFragment_to_docFragment"
+            app:destination="@id/docFragment" />
+        <action
+            android:id="@+id/action_explorerFragment_to_photoFragment"
+            app:destination="@id/photoFragment" />
+        <action
+            android:id="@+id/action_explorerFragment_to_musicFragment"
+            app:destination="@id/musicFragment" />
+        <action
+            android:id="@+id/action_explorerFragment_to_downloadFragment"
+            app:destination="@id/downloadFragment" />
+        <action
+            android:id="@+id/action_explorerFragment_to_videoFragment"
+            app:destination="@id/videoFragment" />
+        <action
+            android:id="@+id/action_explorerFragment_to_apkFragment"
+            app:destination="@id/apkFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/archiveFragment"
+        android:name="vn.trungkma.money.ui.archive.ArchiveFragment"
+        android:label="archive"
+        tools:layout="@layout/fragment_archive" />
+
+    <fragment
+        android:id="@+id/docFragment"
+        android:name="vn.trungkma.money.ui.explorer.doc.DocFragment"
+        android:label="doc"
+        tools:layout="@layout/fragment_doc" />
+
+    <fragment
+        android:id="@+id/photoFragment"
+        android:name="vn.trungkma.money.ui.explorer.photo.PhotoFragment"
+        android:label="photo"
+        tools:layout="@layout/fragment_photo" />
+
+    <fragment
+        android:id="@+id/musicFragment"
+        android:name="vn.trungkma.money.ui.explorer.music.MusicFragment"
+        android:label="music"
+        tools:layout="@layout/fragment_music" />
+
+    <fragment
+        android:id="@+id/downloadFragment"
+        android:name="vn.trungkma.money.ui.explorer.download.DownloadFragment"
+        android:label="download"
+        tools:layout="@layout/fragment_download" />
+
+    <fragment
+        android:id="@+id/videoFragment"
+        android:name="vn.trungkma.money.ui.explorer.video.VideoFragment"
+        android:label="video"
+        tools:layout="@layout/fragment_video" />
+
+    <fragment
+        android:id="@+id/apkFragment"
+        android:name="vn.trungkma.money.ui.explorer.apk.ApkFragment"
+        android:label="apk"
+        tools:layout="@layout/fragment_apk" />
+
+    <fragment
+        android:id="@+id/browseFragment"
+        android:name="vn.trungkma.money.ui.explorer.browse.BrowseFragment"
+        android:label="browse"
+        tools:layout="@layout/fragment_browse" />
+
+    <fragment
+        android:id="@+id/playPhotoFragment"
+        android:label="playPhoto"
+        tools:layout="@layout/fragment_play_photo"
+        android:name="vn.trungkma.money.ui.play.photo.PlayPhotoFragment">
+        <argument
+            android:name="myArg"
+            app:argType="string"
+            android:defaultValue="1" />
+    </fragment>
+
+
+</navigation>

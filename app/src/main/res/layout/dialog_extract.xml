@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="436dp"
+    android:layout_marginStart="@dimen/margin_16"
+    android:layout_marginEnd="@dimen/margin_16"
+    android:background="@drawable/custom_bg_dialog">
+
+    <TextView
+        android:id="@+id/tv_extract"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_16"
+        android:fontFamily="@font/sf_pro_display_regular"
+        android:text="@string/extract"
+        android:textColor="@color/text_black"
+        android:textSize="@dimen/text24sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/tv_extract_fileName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/margin_16"
+        android:layout_marginTop="@dimen/margin_10"
+        android:fontFamily="@font/sf_pro_display_regular"
+        android:text="@string/file_name"
+        android:textColor="@color/text_gray"
+        android:textSize="@dimen/text13sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/tv_extract" />
+
+    <EditText
+        android:id="@+id/edt_extract_fileName"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginStart="@dimen/margin_16"
+        android:textSize="@dimen/text15sp"
+        android:paddingEnd="@dimen/margin_10"
+        android:paddingStart="@dimen/margin_10"
+        android:layout_marginTop="@dimen/margin_6"
+        android:layout_marginEnd="@dimen/margin_16"
+        android:background="@drawable/custom_bg_edt"
+        android:fontFamily="@font/sf_pro_display_regular"
+        android:textColor="@color/text_blue"
+        app:layout_constraintTop_toBottomOf="@id/tv_extract_fileName" />
+
+    <TextView
+        android:id="@+id/tv_compress_folder"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/margin_16"
+        android:layout_marginTop="@dimen/margin_16"
+        android:fontFamily="@font/sf_pro_display_regular"
+        android:text="@string/folder"
+        android:textColor="@color/text_gray"
+        android:textSize="@dimen/text13sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/edt_extract_fileName" />
+
+    <TextView
+        android:id="@+id/edt_extract_folder"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginStart="@dimen/margin_16"
+        android:layout_marginTop="@dimen/margin_6"
+        android:textSize="@dimen/text15sp"
+        android:paddingStart="@dimen/margin_10"
+        android:paddingEnd="@dimen/margin_10"
+        android:layout_marginEnd="@dimen/margin_16"
+        android:background="@drawable/custom_bg_edt"
+        android:drawableEnd="@drawable/ic_folder_edt"
+        android:ellipsize="end"
+        android:fontFamily="@font/sf_pro_display_regular"
+        android:lines="1"
+        android:padding="@dimen/margin_6"
+        android:textColor="@color/text_blue"
+        app:layout_constraintTop_toBottomOf="@id/tv_compress_folder" />
+
+    <RadioGroup
+        android:id="@+id/radio_extract_group"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/edt_extract_folder">
+
+        <RadioButton
+            android:id="@+id/radio_extract_askBefore"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/margin_16"
+            android:layout_marginTop="@dimen/margin_33"
+            android:layout_marginEnd="@dimen/margin_16"
+            android:checked="true"
+            android:fontFamily="@font/sf_pro_display_regular"
+            android:paddingLeft="13dp"
+            android:text="@string/ask_before_overwrite"
+            android:textColor="@color/text_black"
+            android:textSize="@dimen/text15sp" />
+
+        <RadioButton
+            android:id="@+id/radio_extract_overwirte"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/margin_16"
+            android:layout_marginEnd="@dimen/margin_16"
+
+            android:fontFamily="@font/sf_pro_display_regular"
+            android:paddingLeft="@dimen/margin_13"
+            android:text="@string/overwrite_without_prompt"
+            android:textColor="@color/text_black"
+            android:textSize="@dimen/text15sp" />
+
+        <RadioButton
+            android:id="@+id/radio_extract_skip"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/margin_16"
+            android:layout_marginEnd="@dimen/margin_16"
+            android:fontFamily="@font/sf_pro_display_regular"
+            android:paddingLeft="@dimen/margin_13"
+            android:text="@string/skip_existing_files"
+            android:textColor="@color/text_black"
+            android:textSize="@dimen/text15sp" />
+
+    </RadioGroup>
+
+
+    <android.widget.Button
+        android:id="@+id/btn_reName"
+        android:layout_width="173dp"
+        android:layout_height="36dp"
+        android:layout_marginTop="@dimen/margin_28"
+        android:layout_marginBottom="@dimen/margin_27"
+        android:background="@drawable/custom_bg_button_blue"
+        android:fontFamily="@font/sf_pro_display_regular"
+        android:text="@string/ok"
+        android:textAllCaps="false"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text17sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/radio_extract_group" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

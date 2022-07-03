@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        tools:context=".ui.explorer.ExplorerFragment">
+
+        <ImageView
+            android:id="@+id/img_explorer_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/margin_16"
+            android:layout_marginTop="@dimen/margin_30"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:padding="@dimen/margin_4"
+            android:src="@drawable/ic_arrow_back"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/tv_explorer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_30"
+            android:fontFamily="@font/sf_pro_display_regular"
+            android:text="@string/file_explorer"
+            android:textColor="@color/text_black"
+            android:textSize="@dimen/text22sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/img_search_explorer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_30"
+            android:layout_marginEnd="@dimen/margin_16"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:src="@drawable/ic_search"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/tv_explorer_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_30"
+            android:layout_marginEnd="@dimen/margin_16"
+            android:background="?attr/selectableItemBackgroundBorderless"
+            android:fontFamily="@font/sf_pro_display_regular"
+            android:text="@string/cancel"
+            android:textColor="@color/text_blue"
+            android:textSize="@dimen/text18sp"
+            android:visibility="gone"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <androidx.appcompat.widget.SearchView
+            android:id="@+id/search_explorer"
+            android:layout_width="0dp"
+            android:layout_height="36dp"
+            android:layout_marginStart="@dimen/margin_8"
+            android:layout_marginTop="@dimen/margin_28"
+            android:layout_marginEnd="@dimen/margin_8"
+            android:background="@drawable/custom_bg_search"
+            android:visibility="gone"
+            app:closeIcon="@null"
+            app:iconifiedByDefault="false"
+            app:layout_constraintEnd_toStartOf="@+id/tv_explorer_cancel"
+            app:layout_constraintStart_toEndOf="@+id/img_explorer_back"
+            app:layout_constraintTop_toTopOf="parent"
+            app:queryBackground="@null"
+            app:queryHint="@string/search"
+            app:searchIcon="@null" />
+
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/constraint_explorer_frame"
+            android:layout_width="match_parent"
+            android:layout_height="220dp"
+            android:layout_marginStart="@dimen/margin_16"
+            android:layout_marginTop="@dimen/margin_15"
+            android:layout_marginEnd="@dimen/margin_16"
+            android:background="@drawable/custom_bg_explorer"
+            android:paddingTop="@dimen/margin_16"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/img_explorer_back">
+
+            <RelativeLayout
+                android:id="@+id/rl_explorer_photo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <ImageView
+                    android:id="@+id/img_explorer_photo"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:src="@drawable/img_explorer_photo" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/img_explorer_photo"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="@dimen/margin_4"
+                    android:fontFamily="@font/sf_pro_display_regular"
+                    android:text="@string/photo"
+                    android:textColor="@color/text_gray"
+                    android:textSize="@dimen/text13sp" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_explorer_doc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/margin_38"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+                <ImageView
+                    android:id="@+id/img_explorer_doc"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:src="@drawable/img_explorer_document" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/img_explorer_doc"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="@dimen/margin_4"
+                    android:fontFamily="@font/sf_pro_display_regular"
+                    android:text="@string/doc"
+                    android:textColor="@color/text_gray"
+                    android:textSize="@dimen/text13sp" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_explorer_music"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="@dimen/margin_38"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent">
+
+
+                <ImageView
+                    android:id="@+id/img_explorer_music"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:layout_centerHorizontal="true"
+
+                    android:src="@drawable/img_explorer_music" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/img_explorer_music"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="@dimen/margin_4"
+                    android:fontFamily="@font/sf_pro_display_regular"
+                    android:text="@string/music"
+                    android:textColor="@color/text_gray"
+                    android:textSize="@dimen/text13sp"
+                    app:layout_constraintEnd_toEndOf="@+id/img_explorer_music"
+                    app:layout_constraintStart_toStartOf="@+id/img_explorer_music"
+                    app:layout_constraintTop_toBottomOf="@+id/img_explorer_music" />
+
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:id="@+id/rl_explorer_video"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/margin_16"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent">
+
+                <ImageView
+                    android:id="@+id/img_explorer_video"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+
+                    android:src="@drawable/img_explorer_video" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/img_explorer_video"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="@dimen/margin_4"
+                    android:fontFamily="@font/sf_pro_display_regular"
+                    android:text="@string/video"
+                    android:textColor="@color/text_gray"
+                    android:textSize="@dimen/text13sp" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_explorer_download"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/margin_38"
+                android:layout_marginBottom="@dimen/margin_16"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintStart_toStartOf="parent">
+
+                <ImageView
+                    android:id="@+id/img_explorer_download"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:src="@drawable/img_explorer_download" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/img_explorer_download"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="@dimen/margin_4"
+                    android:fontFamily="@font/sf_pro_display_regular"
+                    android:text="@string/download"
+                    android:textColor="@color/text_gray"
+                    android:textSize="@dimen/text13sp" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_explorer_apk"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="@dimen/margin_38"
+                android:layout_marginBottom="@dimen/margin_16"
+                android:background="?attr/selectableItemBackgroundBorderless"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent">
+
+                <ImageView
+                    android:id="@+id/img_explorer_apk"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:src="@drawable/img_explorer_apk" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/img_explorer_apk"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="@dimen/margin_4"
+                    android:fontFamily="@font/sf_pro_display_regular"
+                    android:text="@string/apk"
+                    android:textColor="@color/text_gray"
+                    android:textSize="@dimen/text13sp" />
+            </RelativeLayout>
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <ProgressBar
+            android:id="@+id/progress_explorer"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/constraint_explorer_frame" />
+
+        <TextView
+            android:id="@+id/tv_explorer_noData"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/sf_pro_display_regular"
+            android:text="@string/no_data"
+            android:textColor="@color/text_blue"
+            android:textSize="@dimen/text22sp"
+            android:visibility="invisible"
+            android:textStyle="bold"
+            app:layout_constraintTop_toBottomOf="@id/constraint_explorer_frame"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+           />
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/recycler_explorer"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginStart="@dimen/margin_16"
+            android:layout_marginEnd="@dimen/margin_16"
+            android:clipToPadding="false"
+            android:paddingBottom="120dp"
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/constraint_explorer_frame" />
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>
