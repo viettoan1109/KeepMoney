@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.hzy:libp7zip:1.7.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/db3b761cb9b40fbada68863989a86171/jetified-libp7zip-1.7.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/db3b761cb9b40fbada68863989a86171/jetified-libp7zip-1.7.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/db3b761cb9b40fbada68863989a86171/jetified-libp7zip-1.7.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hzy/libp7zip/1.7.0/95afffef78f458de0922ac6e42ad2ded7885ffc1/libp7zip-1.7.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.hzy/libp7zip/1.7.0/3d7330094968655f631358287967c674208f429f/libp7zip-1.7.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

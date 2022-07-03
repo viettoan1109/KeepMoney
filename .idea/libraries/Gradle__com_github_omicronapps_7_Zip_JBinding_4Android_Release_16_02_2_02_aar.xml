@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.omicronapps:7-Zip-JBinding-4Android:Release-16.02-2.02@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b84d67959598e0b55d4c5f0c73d4a2f8/jetified-7-Zip-JBinding-4Android-Release-16.02-2.02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e901ef4dc3bebfc4a654f826555b3fca/jetified-7-Zip-JBinding-4Android-Release-16.02-2.02/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7ff3373ebca84b33e70408c2d78207fe/jetified-7-Zip-JBinding-4Android-Release-16.02-2.02/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e901ef4dc3bebfc4a654f826555b3fca/jetified-7-Zip-JBinding-4Android-Release-16.02-2.02/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e901ef4dc3bebfc4a654f826555b3fca/jetified-7-Zip-JBinding-4Android-Release-16.02-2.02/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.omicronapps/7-Zip-JBinding-4Android/Release-16.02-2.02/6ff9c0ddfd712e6f7bf3cf24efaa8d64b78d94e9/7-Zip-JBinding-4Android-Release-16.02-2.02-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.omicronapps/7-Zip-JBinding-4Android/Release-16.02-2.02/d93d8cdd9052502669ce88cdc44f3a90e87a31fc/7-Zip-JBinding-4Android-Release-16.02-2.02-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
