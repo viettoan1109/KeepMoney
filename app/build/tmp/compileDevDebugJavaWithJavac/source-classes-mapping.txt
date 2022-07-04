@@ -13,13 +13,13 @@ vn/trungkma/money/ui/explorer/doc/DocViewModel.java
 vn/trungkma/money/ui/explorer/music/MusicViewModel.java
  vn.trungkma.money.ui.explorer.music.MusicViewModel
  vn.trungkma.money.ui.explorer.music.MusicViewModel$1
-vn/trungkma/money/data/model/MediaFileInfo.java
- vn.trungkma.money.data.model.MediaFileInfo
 vn/trungkma/money/ui/adapter/MediaAdapter.java
  vn.trungkma.money.ui.adapter.MediaAdapter
  vn.trungkma.money.ui.adapter.MediaAdapter$1
  vn.trungkma.money.ui.adapter.MediaAdapter$OnItemClickedListener
  vn.trungkma.money.ui.adapter.MediaAdapter$ViewHolder
+vn/trungkma/money/data/model/MediaFileInfo.java
+ vn.trungkma.money.data.model.MediaFileInfo
 vn/trungkma/money/ui/policy/PolicyFragment.java
  vn.trungkma.money.ui.policy.PolicyFragment
 vn/trungkma/money/common/LiveEvent.java
@@ -50,11 +50,11 @@ vn/trungkma/money/ui/main/home/HomeFragmentDirections.java
 vn/trungkma/money/ui/main/select/SelectFragment.java
  vn.trungkma.money.ui.main.select.SelectFragment
  vn.trungkma.money.ui.main.select.SelectFragment$1
+vn/trungkma/money/databinding/FragmentMusicBinding.java
+ vn.trungkma.money.databinding.FragmentMusicBinding
 vn/trungkma/money/ui/explorer/download/DownloadViewModel.java
  vn.trungkma.money.ui.explorer.download.DownloadViewModel
  vn.trungkma.money.ui.explorer.download.DownloadViewModel$1
-vn/trungkma/money/databinding/FragmentMusicBinding.java
- vn.trungkma.money.databinding.FragmentMusicBinding
 vn/trungkma/money/ui/main/home/HomeFragmentArgs.java
  vn.trungkma.money.ui.main.home.HomeFragmentArgs
  vn.trungkma.money.ui.main.home.HomeFragmentArgs$1
@@ -103,22 +103,22 @@ vn/trungkma/money/ui/main/select/SelectViewModel.java
 vn/trungkma/money/ui/explorer/photo/PhotoViewModel.java
  vn.trungkma.money.ui.explorer.photo.PhotoViewModel
  vn.trungkma.money.ui.explorer.photo.PhotoViewModel$1
-vn/trungkma/money/databinding/FragmentPhotoBinding.java
- vn.trungkma.money.databinding.FragmentPhotoBinding
 vn/trungkma/money/ui/explorer/video/VideoViewModel.java
  vn.trungkma.money.ui.explorer.video.VideoViewModel
  vn.trungkma.money.ui.explorer.video.VideoViewModel$1
+vn/trungkma/money/databinding/FragmentPhotoBinding.java
+ vn.trungkma.money.databinding.FragmentPhotoBinding
 vn/trungkma/money/ui/adapter/BrowseAdapter.java
  vn.trungkma.money.ui.adapter.BrowseAdapter
  vn.trungkma.money.ui.adapter.BrowseAdapter$1
  vn.trungkma.money.ui.adapter.BrowseAdapter$OnItemClickedListener
  vn.trungkma.money.ui.adapter.BrowseAdapter$ViewHolder
-vn/trungkma/money/common/models/EvenFile.java
- vn.trungkma.money.common.models.EvenFile
 vn/trungkma/money/databinding/FragmentBrowseBinding.java
  vn.trungkma.money.databinding.FragmentBrowseBinding
 vn/trungkma/money/ui/play/photo/PlayPhotoViewModel.java
  vn.trungkma.money.ui.play.photo.PlayPhotoViewModel
+vn/trungkma/money/common/models/EvenFile.java
+ vn.trungkma.money.common.models.EvenFile
 vn/trungkma/money/ui/explorer/doc/DocFragment.java
  vn.trungkma.money.ui.explorer.doc.DocFragment
  vn.trungkma.money.ui.explorer.doc.DocFragment$1
@@ -128,12 +128,12 @@ vn/trungkma/money/ui/explorer/doc/DocFragment.java
  vn.trungkma.money.ui.explorer.doc.DocFragment$5
 vn/trungkma/money/ui/base/BaseBindingBottomSheetFragment.java
  vn.trungkma.money.ui.base.BaseBindingBottomSheetFragment
-vn/trungkma/money/App.java
- vn.trungkma.money.App
 vn/trungkma/money/data/repository/MusicRepository.java
  vn.trungkma.money.data.repository.MusicRepository
 vn/trungkma/money/databinding/FragmentApkBinding.java
  vn.trungkma.money.databinding.FragmentApkBinding
+vn/trungkma/money/App.java
+ vn.trungkma.money.App
 vn/trungkma/money/databinding/FragmentVideoBinding.java
  vn.trungkma.money.databinding.FragmentVideoBinding
 vn/trungkma/money/ui/dialog/DialogExtract.java
@@ -179,10 +179,10 @@ vn/trungkma/money/ui/base/BaseBottomSheetFragment.java
  vn.trungkma.money.ui.base.BaseBottomSheetFragment
 vn/trungkma/money/common/Event.java
  vn.trungkma.money.common.Event
-vn/trungkma/money/data/model/Video.java
- vn.trungkma.money.data.model.Video
 vn/trungkma/money/utils/LocaleUtils.java
  vn.trungkma.money.utils.LocaleUtils
+vn/trungkma/money/data/model/Video.java
+ vn.trungkma.money.data.model.Video
 vn/trungkma/money/databinding/ItemFolderBrowseBinding.java
  vn.trungkma.money.databinding.ItemFolderBrowseBinding
 vn/trungkma/money/ui/explorer/photo/PhotoFragment.java
@@ -228,11 +228,11 @@ vn/trungkma/money/ui/explorer/browse/BrowseFragment.java
  vn.trungkma.money.ui.explorer.browse.BrowseFragment$1
  vn.trungkma.money.ui.explorer.browse.BrowseFragment$2
  vn.trungkma.money.ui.explorer.browse.BrowseFragment$3
-vn/trungkma/money/ui/base/BaseBindingDialogFragment.java
- vn.trungkma.money.ui.base.BaseBindingDialogFragment
 vn/trungkma/money/ui/dialog/DialogRename.java
  vn.trungkma.money.ui.dialog.DialogRename
  vn.trungkma.money.ui.dialog.DialogRename$1
+vn/trungkma/money/ui/base/BaseBindingDialogFragment.java
+ vn.trungkma.money.ui.base.BaseBindingDialogFragment
 vn/trungkma/money/data/model/Apk.java
  vn.trungkma.money.data.model.Apk
  vn.trungkma.money.data.model.Apk$1

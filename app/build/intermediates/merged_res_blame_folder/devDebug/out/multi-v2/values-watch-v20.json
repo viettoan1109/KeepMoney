@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\merged.dir\\values-watch-v20\\values-watch-v20.xml",
+            "outputFile": "/Users/Zi/Work/KeepMoney/app/build/intermediates/incremental/mergeDevDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\toanp\\.gradle\\caches\\transforms-2\\files-2.1\\fc238d6d4e28d16d41dc1f62c4ac43bd\\appcompat-1.2.0\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "source": "/Users/Zi/.gradle/caches/transforms-2/files-2.1/fc238d6d4e28d16d41dc1f62c4ac43bd/appcompat-1.2.0/res/values-watch-v20/values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",

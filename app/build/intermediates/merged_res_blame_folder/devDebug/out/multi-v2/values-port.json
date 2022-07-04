@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "outputFile": "/Users/Zi/Work/KeepMoney/app/build/intermediates/incremental/mergeDevDebugResources/merged.dir/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\toanp\\.gradle\\caches\\transforms-2\\files-2.1\\fc238d6d4e28d16d41dc1f62c4ac43bd\\appcompat-1.2.0\\res\\values-port\\values-port.xml",
+                    "source": "/Users/Zi/.gradle/caches/transforms-2/files-2.1/fc238d6d4e28d16d41dc1f62c4ac43bd/appcompat-1.2.0/res/values-port/values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

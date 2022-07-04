@@ -9,18 +9,29 @@ import android.view.Window;
 
 import vn.trungkma.money.R;
 import vn.trungkma.money.ui.main.MainActivity;
+import vn.trungkma.money.ui.slide.ViewSliderActivity;
 
 public class SplashActivity extends AppCompatActivity {
-    private Handler handler;
+    private static int SPLASH_SCREEN = 3000;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash);
-
+        init();
     }
 
 
+    private void init() {
+        new Handler().postDelayed(new Runnable() {
+            @Override
+            public void run() {
+                Intent intent = new Intent(SplashActivity.this, ViewSliderActivity.class);
+                startActivity(intent);
+                finish();
+            }
+        }, SPLASH_SCREEN);
+    }
 
     @Override
     protected void onDestroy() {

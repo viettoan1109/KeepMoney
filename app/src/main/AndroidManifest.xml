@@ -10,7 +10,6 @@
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
-
     <application
         android:name="vn.trungkma.money.App"
         android:allowBackup="true"
@@ -23,14 +22,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Zazip"
         android:usesCleartextTraffic="true">
-
+        <activity
+            android:name=".ViewSliderActivity"
+            android:exported="false" />
         <activity
             android:name="vn.trungkma.money.ui.main.MainActivity"
-            android:windowSoftInputMode="adjustNothing"
-            >
-
-        </activity>
-
+            android:windowSoftInputMode="adjustNothing"></activity>
         <activity
             android:name="vn.trungkma.money.ui.splash.SplashActivity"
             android:exported="true"
@@ -40,7 +37,6 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
         </activity>
     </application>
 

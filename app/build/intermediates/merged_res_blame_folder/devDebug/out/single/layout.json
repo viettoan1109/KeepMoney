@@ -1,74 +1,74 @@
 [
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\fragment_apk.xml",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\fragment_apk.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/fragment_download.xml",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/fragment_download.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\fragment_explorer.xml",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\fragment_explorer.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/fragment_archive.xml",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/fragment_archive.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\activity_main.xml",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/fragment_apk.xml",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/fragment_apk.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\fragment_play_photo.xml",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\fragment_play_photo.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/fragment_policy.xml",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/fragment_policy.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\fragment_photo.xml",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\fragment_photo.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/item_archive_files.xml",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/item_archive_files.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\fragment_home.xml",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\fragment_home.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/fragment_video.xml",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/fragment_video.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\fragment_archive.xml",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\fragment_archive.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/fragment_play_photo.xml",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/fragment_play_photo.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\fragment_select.xml",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\fragment_select.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/fragment_music.xml",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/fragment_music.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\item_file.xml",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\item_file.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/item_folder_browse.xml",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/item_folder_browse.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\fragment_video.xml",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\fragment_video.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/fragment_explorer.xml",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/fragment_explorer.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\fragment_download.xml",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\fragment_download.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/fragment_home.xml",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/fragment_home.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\fragment_music.xml",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\fragment_music.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/fragment_browse.xml",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/fragment_browse.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\item_folder_browse.xml",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\item_folder_browse.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/item_media.xml",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/item_media.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\fragment_doc.xml",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\fragment_doc.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/item_file.xml",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/item_file.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\item_media.xml",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\item_media.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/fragment_doc.xml",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/fragment_doc.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\item_archive_files.xml",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\item_archive_files.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/fragment_photo.xml",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/fragment_photo.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\fragment_browse.xml",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\fragment_browse.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\stripped.dir\\layout\\fragment_policy.xml",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\fragment_policy.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/incremental/mergeDevDebugResources/stripped.dir/layout/fragment_select.xml",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/fragment_select.xml"
     }
 ]

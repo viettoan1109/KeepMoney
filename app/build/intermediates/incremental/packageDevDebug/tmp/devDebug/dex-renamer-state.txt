@@ -1,12 +1,12 @@
-#Sun Jul 03 17:39:23 ICT 2022
+#Mon Jul 04 09:17:48 ICT 2022
 path.3=classes3.dex
 path.2=classes2.dex
 path.1=classes.dex
 path.0=classes.dex
-base.3=D\:\\Code\\Github\\financial-management\\app\\build\\intermediates\\dex\\devDebug\\mergeExtDexDevDebug\\classes3.dex
-base.2=D\:\\Code\\Github\\financial-management\\app\\build\\intermediates\\dex\\devDebug\\mergeExtDexDevDebug\\classes2.dex
-base.1=D\:\\Code\\Github\\financial-management\\app\\build\\intermediates\\dex\\devDebug\\mergeProjectDexDevDebug\\classes.dex
-base.0=D\:\\Code\\Github\\financial-management\\app\\build\\intermediates\\dex\\devDebug\\mergeExtDexDevDebug\\classes.dex
+base.3=/Users/Zi/Work/KeepMoney/app/build/intermediates/dex/devDebug/mergeExtDexDevDebug/classes3.dex
+base.2=/Users/Zi/Work/KeepMoney/app/build/intermediates/dex/devDebug/mergeExtDexDevDebug/classes2.dex
+base.1=/Users/Zi/Work/KeepMoney/app/build/intermediates/dex/devDebug/mergeProjectDexDevDebug/classes.dex
+base.0=/Users/Zi/Work/KeepMoney/app/build/intermediates/dex/devDebug/mergeExtDexDevDebug/classes.dex
 renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex

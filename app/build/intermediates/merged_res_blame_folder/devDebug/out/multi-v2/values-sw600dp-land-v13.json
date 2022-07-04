@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\incremental\\mergeDevDebugResources\\merged.dir\\values-sw600dp-land-v13\\values-sw600dp-land-v13.xml",
+            "outputFile": "/Users/Zi/Work/KeepMoney/app/build/intermediates/incremental/mergeDevDebugResources/merged.dir/values-sw600dp-land-v13/values-sw600dp-land-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\toanp\\.gradle\\caches\\transforms-2\\files-2.1\\49c662f303b2147593ca37b294115f2b\\jetified-SuperBottomSheet-2.0.0\\res\\values-sw600dp-land-v13\\values-sw600dp-land-v13.xml",
+                    "source": "/Users/Zi/.gradle/caches/transforms-2/files-2.1/49c662f303b2147593ca37b294115f2b/jetified-SuperBottomSheet-2.0.0/res/values-sw600dp-land-v13/values-sw600dp-land-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

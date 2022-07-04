@@ -41,7 +41,7 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 30 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Gradle: C./Users/toanp/AppData/Local/Android/Sdk/build-tools/30.0.2/renderscript/lib/androidx-rs.jar" level="project" />
+    <orderEntry type="library" name="Gradle: ./../../Library/Android/sdk/build-tools/30.0.2/renderscript/lib/androidx-rs.jar" level="project" />
     <orderEntry type="library" name="Gradle: io.realm:realm-annotations:10.1.0" level="project" />
     <orderEntry type="library" name="Gradle: androidx.databinding:databinding-common:4.1.2" level="project" />
     <orderEntry type="library" name="Gradle: com.google.dagger:hilt-core:2.33-beta" level="project" />
@@ -166,5 +166,6 @@
     <orderEntry type="library" name="Gradle: io.reactivex.rxjava3:rxandroid:3.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.github.omicronapps:7-Zip-JBinding-4Android:Release-16.02-2.02@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.hzy:libp7zip:1.7.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: pl.droidsonroids.gif:android-gif-drawable:1.2.21@aar" level="project" />
   </component>
 </module>

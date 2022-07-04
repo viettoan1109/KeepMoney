@@ -1,622 +1,650 @@
 [
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi_img_switch_on.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable-xxhdpi\\img_switch_on.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/layout_fragment_doc.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/fragment_doc.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\layout_activity_main.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-anydpi-v26_ic_launcher_keep_money_round.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-anydpi-v26/ic_launcher_keep_money_round.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_ic_archive.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\ic_archive.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-mdpi_ic_launcher_keep_money_round.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-mdpi/ic_launcher_keep_money_round.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi_img_logo.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable-xxhdpi\\img_logo.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable-xxhdpi_img_splash.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable-xxhdpi/img_splash.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-hdpi_ic_launcher_keep_money.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_keep_money.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-xxhdpi_ic_launcher_keep_money_round.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-xxhdpi/ic_launcher_keep_money_round.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable-xxhdpi_img_giff_2.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable-xxhdpi/img_giff_2.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_ic_share.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\ic_share.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/layout_activity_main.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_ic_arrow_hide_recent.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\ic_arrow_hide_recent.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/xml_network_security_config.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/xml/network_security_config.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xxxhdpi_ic_launcher_keep_money.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_keep_money.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_custom_bg_archive.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/custom_bg_archive.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi_img_explorer_music.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable-xxhdpi\\img_explorer_music.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-xhdpi_ic_launcher_zazip_foreground.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-xhdpi/ic_launcher_zazip_foreground.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\layout_fragment_play_photo.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\fragment_play_photo.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_img_keep_money_logo.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/img_keep_money_logo.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_ic_arrow_hide_item.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\ic_arrow_hide_item.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable-xxhdpi_img_explorer_photo.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable-xxhdpi/img_explorer_photo.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xhdpi_ic_launcher_keep_money.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_keep_money.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_ic_archive_gray.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/ic_archive_gray.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi_img_file_ppt.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable-xxhdpi\\img_file_ppt.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_ic_radio_off.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/ic_radio_off.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi_img_file_music.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable-xxhdpi\\img_file_music.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_custom_bg_edt.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/custom_bg_edt.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xxhdpi_ic_launcher_keep_money_round.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_keep_money_round.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_bg_white.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/bg_white.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi_img_file_pdf.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable-xxhdpi\\img_file_pdf.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_ic_hide_pass.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/ic_hide_pass.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_ic_check_off.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\ic_check_off.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/layout_fragment_policy.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/fragment_policy.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi_img_file_archive.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable-xxhdpi\\img_file_archive.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi_img_giff.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable-xxhdpi\\img_giff.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/layout_dialog_rename.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/dialog_rename.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xhdpi_ic_launcher_keep_money_round.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_keep_money_round.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/layout_fragment_download.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/fragment_download.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_ic_radio_on.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\ic_radio_on.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xxhdpi_ic_launcher_zazip_round.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_zazip_round.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-xxxhdpi_ic_launcher_keep_money.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-xxxhdpi/ic_launcher_keep_money.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_ic_show_pass.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\ic_show_pass.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_ic_extract.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/ic_extract.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xxxhdpi_ic_launcher_keep_money_foreground.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_keep_money_foreground.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/navigation_main_nav.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/navigation/main_nav.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\xml_network_security_config.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\xml\\network_security_config.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/layout_dialog_new_folder.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/dialog_new_folder.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-hdpi_ic_launcher_zazip_foreground.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_zazip_foreground.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/layout_dialog_delete.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/dialog_delete.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi_img_rate.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable-xxhdpi\\img_rate.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/layout_navigation_header.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/navigation_header.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-hdpi_ic_launcher_zazip_round.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_zazip_round.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-anydpi-v26_ic_launcher_zazip_round.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-anydpi-v26/ic_launcher_zazip_round.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-mdpi_ic_launcher_keep_money_round.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_keep_money_round.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-hdpi_ic_launcher_keep_money.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-hdpi/ic_launcher_keep_money.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\layout_fragment_explorer.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\fragment_explorer.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/layout_dialog_extract.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/dialog_extract.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_custom_bg_button_blue.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\custom_bg_button_blue.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_ic_radio_on.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/ic_radio_on.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_ic_check_false.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\ic_check_false.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_ic_check_on.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/ic_check_on.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_custom_bg_search.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\custom_bg_search.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi_img_explorer_document.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable-xxhdpi\\img_explorer_document.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable-xxhdpi_img_file_archive.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable-xxhdpi/img_file_archive.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_custom_bg_bottom_sheet.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\custom_bg_bottom_sheet.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_ic_check_true.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/ic_check_true.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\layout_fragment_browse.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\fragment_browse.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-mdpi_ic_launcher_zazip_round.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-mdpi/ic_launcher_zazip_round.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-mdpi_ic_launcher_keep_money_foreground.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_keep_money_foreground.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-anydpi-v26_ic_launcher_zazip.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_zazip.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable-xxhdpi_img_file_link.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable-xxhdpi/img_file_link.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\layout_fragment_select.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\fragment_select.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/layout_fragment_video.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/fragment_video.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_ic_paste_gray.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\ic_paste_gray.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_ic_arrow_show_all.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/ic_arrow_show_all.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/layout_dialog_compress.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/dialog_compress.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xhdpi_ic_launcher_zazip.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_zazip.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-xhdpi_ic_launcher_keep_money.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-xhdpi/ic_launcher_keep_money.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_ic_arrow_show_all.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\ic_arrow_show_all.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/font_sf_pro_display_regular.ttf.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/font/sf_pro_display_regular.ttf"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi_img_file_link.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable-xxhdpi\\img_file_link.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable-xxhdpi_img_file_txt.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable-xxhdpi/img_file_txt.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi_img_policy.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable-xxhdpi\\img_policy.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/layout_fragment_photo.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/fragment_photo.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-anydpi-v26_ic_launcher_keep_money_round.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_keep_money_round.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable-xxhdpi_img_file_no_name.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable-xxhdpi/img_file_no_name.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-anydpi-v26_ic_launcher_keep_money.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_keep_money.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-mdpi_ic_launcher_zazip_foreground.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-mdpi/ic_launcher_zazip_foreground.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\layout_dialog_extract.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\dialog_extract.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_custom_bg_edt_pass.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/custom_bg_edt_pass.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\layout_dialog_enter_password.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\dialog_enter_password.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable-xxhdpi_img_explorer.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable-xxhdpi/img_explorer.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xxxhdpi_ic_launcher_zazip_foreground.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_zazip_foreground.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-xxxhdpi_ic_launcher_keep_money_round.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-xxxhdpi/ic_launcher_keep_money_round.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_ic_rename_gray.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\ic_rename_gray.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_ic_arrow_hide_item.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/ic_arrow_hide_item.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi_img_giff_2.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable-xxhdpi\\img_giff_2.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_ic_share.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/ic_share.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-mdpi_ic_launcher_zazip.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_zazip.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi_img_explorer_photo.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable-xxhdpi\\img_explorer_photo.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-xxhdpi_ic_launcher_zazip_foreground.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-xxhdpi/ic_launcher_zazip_foreground.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\layout_dialog_delete.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\dialog_delete.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-hdpi_ic_launcher_zazip_foreground.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-hdpi/ic_launcher_zazip_foreground.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xxhdpi_ic_launcher_zazip_foreground.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_zazip_foreground.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable-xxhdpi_img_file_apk.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable-xxhdpi/img_file_apk.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\layout_fragment_home.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\fragment_home.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable-xxhdpi_img_file_ppt.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable-xxhdpi/img_file_ppt.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\layout_fragment_download.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\fragment_download.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable-xxhdpi_img_explorer_document.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable-xxhdpi/img_explorer_document.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\color_custom_select_show_recent.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\color\\custom_select_show_recent.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_ic_radio_off.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\ic_radio_off.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable-xxhdpi_slide_two.gif.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable-xxhdpi/slide_two.gif"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\layout_fragment_music.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\fragment_music.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-xxhdpi_ic_launcher_keep_money_foreground.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-xxhdpi/ic_launcher_keep_money_foreground.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi_img_explorer_video.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable-xxhdpi\\img_explorer_video.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_ic_check_false.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/ic_check_false.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\xml_activity_main_scene.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\xml\\activity_main_scene.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/layout_fragment_slide_one.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/fragment_slide_one.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi_img_folder.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable-xxhdpi\\img_folder.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable-xxhdpi_img_file_photo.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable-xxhdpi/img_file_photo.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi_img_file_no_name.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable-xxhdpi\\img_file_no_name.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_custom_bg_bottom_sheet.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/custom_bg_bottom_sheet.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi_img_file_apk.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable-xxhdpi\\img_file_apk.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-hdpi_ic_launcher_zazip.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-hdpi/ic_launcher_zazip.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\layout_dialog_new_folder.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\dialog_new_folder.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_ic_delete.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/ic_delete.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_ic_arrow_right.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\ic_arrow_right.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_ic_extract_gray.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/ic_extract_gray.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_ic_add.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\ic_add.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable-xxhdpi_img_giff.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable-xxhdpi/img_giff.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xxxhdpi_ic_launcher_zazip_round.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_zazip_round.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/layout_activity_view_slider.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/activity_view_slider.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_custom_bg_options.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\custom_bg_options.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-xxhdpi_ic_launcher_zazip.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-xxhdpi/ic_launcher_zazip.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi_img_archiver.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable-xxhdpi\\img_archiver.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-xxhdpi_ic_launcher_zazip_round.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-xxhdpi/ic_launcher_zazip_round.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_custom_bg_file_folder.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\custom_bg_file_folder.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/layout_dialog_enter_password.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/dialog_enter_password.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\color_custom_select_radio.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\color\\custom_select_radio.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable-xxhdpi_img_explorer_video.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable-xxhdpi/img_explorer_video.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi_img_file_word.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable-xxhdpi\\img_file_word.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable-xxhdpi_img_archiver.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable-xxhdpi/img_archiver.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_ic_rename.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\ic_rename.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_ic_arrow_back.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/ic_arrow_back.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\layout_item_media.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\item_media.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_gradient_statusbar.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/gradient_statusbar.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xxhdpi_ic_launcher_keep_money.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_keep_money.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_custom_bg_ads.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/custom_bg_ads.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-hdpi_ic_launcher_keep_money_foreground.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_keep_money_foreground.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_custom_bg_dialog.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\custom_bg_dialog.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/layout_fragment_slide_two.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/fragment_slide_two.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_ic_arrow_show_item.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\ic_arrow_show_item.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/layout_fragment_apk.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/fragment_apk.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_ic_delete.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\ic_delete.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\layout_navigation_header.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\navigation_header.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_ic_add.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/ic_add.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi_img_file_txt.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable-xxhdpi\\img_file_txt.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-hdpi_ic_launcher_keep_money_foreground.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-hdpi/ic_launcher_keep_money_foreground.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_ic_hide_pass.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\ic_hide_pass.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_ic_rename_gray.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/ic_rename_gray.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\xml_show_recent_file_scene.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\xml\\show_recent_file_scene.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-xhdpi_ic_launcher_keep_money_round.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-xhdpi/ic_launcher_keep_money_round.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\layout_fragment_policy.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\fragment_policy.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-hdpi_ic_launcher_keep_money_round.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-hdpi/ic_launcher_keep_money_round.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_custom_bg_ads.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\custom_bg_ads.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/xml_activity_main_scene.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/xml/activity_main_scene.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\navigation_main_nav.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\navigation\\main_nav.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-xhdpi_ic_launcher_zazip.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-xhdpi/ic_launcher_zazip.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_custom_bg_button_gray.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\custom_bg_button_gray.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/menu_menu_main.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/menu/menu_main.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi_img_switch_off.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable-xxhdpi\\img_switch_off.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-mdpi_ic_launcher_zazip.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-mdpi/ic_launcher_zazip.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xhdpi_ic_launcher_zazip_round.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_zazip_round.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_ic_check_off.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/ic_check_off.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_ic_search.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/ic_search.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-mdpi_ic_launcher_keep_money_foreground.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-mdpi/ic_launcher_keep_money_foreground.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_custom_bg_edt_pass.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\custom_bg_edt_pass.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable-xxhdpi_img_file_video.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable-xxhdpi/img_file_video.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xhdpi_ic_launcher_zazip_foreground.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_zazip_foreground.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_ic_arrow_right.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/ic_arrow_right.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-mdpi_ic_launcher_zazip_foreground.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_zazip_foreground.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-xxxhdpi_ic_launcher_zazip_foreground.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-xxxhdpi/ic_launcher_zazip_foreground.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_custom_bg_edt.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\custom_bg_edt.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable-xxhdpi_img_file_xlsx.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable-xxhdpi/img_file_xlsx.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_ic_archive_gray.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\ic_archive_gray.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_ic_folder_edt.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/ic_folder_edt.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable-xxhdpi_img_logo.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable-xxhdpi/img_logo.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_ic_extract.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\ic_extract.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/layout_fragment_explorer.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/fragment_explorer.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\layout_item_folder_browse.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\item_folder_browse.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_ic_show_pass.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/ic_show_pass.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi_img_explorer_download.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable-xxhdpi\\img_explorer_download.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-xhdpi_ic_launcher_keep_money_foreground.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-xhdpi/ic_launcher_keep_money_foreground.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_ic_arrow_show_item.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/ic_arrow_show_item.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable-xxhdpi_img_file_pdf.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable-xxhdpi/img_file_pdf.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_ic_copy.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\ic_copy.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/layout_item_file.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/item_file.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_gradient_statusbar.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\gradient_statusbar.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-xxxhdpi_ic_launcher_keep_money_foreground.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-xxxhdpi/ic_launcher_keep_money_foreground.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi_img_explorer.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable-xxhdpi\\img_explorer.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_ic_rename.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/ic_rename.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/layout_fragment_home.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/fragment_home.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_ic_paste.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\ic_paste.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable-xxhdpi_img_switch_off.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable-xxhdpi/img_switch_off.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\layout_activity_splash.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\activity_splash.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/layout_item_archive_files.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/item_archive_files.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\layout_fragment_archive.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\fragment_archive.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_ic_paste.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/ic_paste.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi_img_splash.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable-xxhdpi\\img_splash.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_ic_archive.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/ic_archive.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_ic_menu.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\ic_menu.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/layout_fragment_archive.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/fragment_archive.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xxhdpi_ic_launcher_keep_money_foreground.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_keep_money_foreground.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/layout_fragment_play_photo.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/fragment_play_photo.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-mdpi_ic_launcher_keep_money.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_keep_money.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_ic_arrow_hide_recent.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/ic_arrow_hide_recent.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xxxhdpi_ic_launcher_zazip.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_zazip.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/xml_show_recent_file_scene.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/xml/show_recent_file_scene.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_custom_bg_archive.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\custom_bg_archive.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable-xxhdpi_slide_one.gif.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable-xxhdpi/slide_one.gif"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\layout_dialog_compress.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\dialog_compress.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_custom_bg_button_blue.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/custom_bg_button_blue.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_custom_bg_options.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/custom_bg_options.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xxhdpi_ic_launcher_zazip.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_zazip.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable-xxhdpi_img_switch_on.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable-xxhdpi/img_switch_on.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xhdpi_ic_launcher_keep_money_foreground.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_keep_money_foreground.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/layout_item_media.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/item_media.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\layout_item_archive_files.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\item_archive_files.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-hdpi_ic_launcher_zazip_round.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-hdpi/ic_launcher_zazip_round.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_img_keep_money_logo.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\img_keep_money_logo.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable-xxhdpi_img_folder.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable-xxhdpi/img_folder.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_ic_arrow_back.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\ic_arrow_back.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_custom_bg_dialog.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/custom_bg_dialog.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-hdpi_ic_launcher_keep_money_round.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_keep_money_round.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/layout_item_folder_browse.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/item_folder_browse.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_ic_search.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\ic_search.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_ic_extract_gray.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\ic_extract_gray.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/layout_activity_splash.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/activity_splash.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\layout_fragment_apk.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\fragment_apk.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/color_custom_select_radio.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/color/custom_select_radio.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_bg_white.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\bg_white.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable-xxhdpi_img_file_music.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable-xxhdpi/img_file_music.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-xhdpi_ic_launcher_zazip_round.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-xhdpi/ic_launcher_zazip_round.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\layout_dialog_rename.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\dialog_rename.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-hdpi_ic_launcher_zazip.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_zazip.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_custom_bg_explorer.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/custom_bg_explorer.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-mdpi_ic_launcher_zazip_round.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_zazip_round.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/layout_fragment_music.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/fragment_music.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/layout_fragment_browse.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/fragment_browse.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\layout_item_file.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\item_file.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_ic_menu.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/ic_menu.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\layout_fragment_doc.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\fragment_doc.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\font_sf_pro_display_regular.ttf.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\font\\sf_pro_display_regular.ttf"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_custom_bg_file_folder.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/custom_bg_file_folder.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-anydpi-v26_ic_launcher_zazip_round.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_zazip_round.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-xxhdpi_ic_launcher_keep_money.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-xxhdpi/ic_launcher_keep_money.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi_img_file_video.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable-xxhdpi\\img_file_video.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-anydpi-v26_ic_launcher_zazip.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-anydpi-v26/ic_launcher_zazip.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_ic_check_true.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\ic_check_true.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable-xxhdpi_slide_three.gif.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable-xxhdpi/slide_three.gif"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\layout_fragment_photo.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\fragment_photo.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable-xxhdpi_img_rate.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable-xxhdpi/img_rate.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_ic_folder_edt.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\ic_folder_edt.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-mdpi_ic_launcher_keep_money.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-mdpi/ic_launcher_keep_money.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_custom_bg_explorer.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\custom_bg_explorer.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_ic_copy.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/ic_copy.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi_img_file_xlsx.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable-xxhdpi\\img_file_xlsx.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-xxxhdpi_ic_launcher_zazip.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-xxxhdpi/ic_launcher_zazip.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\mipmap-xxxhdpi_ic_launcher_keep_money_round.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_keep_money_round.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable-xxhdpi_img_explorer_apk.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable-xxhdpi/img_explorer_apk.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\menu_menu_main.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\menu\\menu_main.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/layout_fragment_slide_three.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/fragment_slide_three.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi_img_explorer_apk.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable-xxhdpi\\img_explorer_apk.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_ic_paste_gray.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/ic_paste_gray.xml"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable_ic_check_on.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable\\ic_check_on.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable-xxhdpi_img_explorer_download.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable-xxhdpi/img_explorer_download.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\drawable-xxhdpi_img_file_photo.png.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\drawable-xxhdpi\\img_file_photo.png"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-xxxhdpi_ic_launcher_zazip_round.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-xxxhdpi/ic_launcher_zazip_round.png"
     },
     {
-        "merged": "D:\\Code\\Github\\financial-management\\app\\build\\intermediates\\res\\merged\\dev\\debug\\layout_fragment_video.xml.flat",
-        "source": "D:\\Code\\Github\\financial-management\\app\\src\\main\\res\\layout\\fragment_video.xml"
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable-xxhdpi_img_file_word.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable-xxhdpi/img_file_word.png"
+    },
+    {
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_custom_bg_search.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/custom_bg_search.xml"
+    },
+    {
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable-xxhdpi_img_policy.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable-xxhdpi/img_policy.png"
+    },
+    {
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/layout_fragment_select.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/layout/fragment_select.xml"
+    },
+    {
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable_custom_bg_button_gray.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable/custom_bg_button_gray.xml"
+    },
+    {
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/drawable-xxhdpi_img_explorer_music.png.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/drawable-xxhdpi/img_explorer_music.png"
+    },
+    {
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/color_custom_select_show_recent.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/color/custom_select_show_recent.xml"
+    },
+    {
+        "merged": "/Users/Zi/Work/KeepMoney/app/build/intermediates/res/merged/dev/debug/mipmap-anydpi-v26_ic_launcher_keep_money.xml.flat",
+        "source": "/Users/Zi/Work/KeepMoney/app/src/main/res/mipmap-anydpi-v26/ic_launcher_keep_money.xml"
     }
 ]
